@@ -1,0 +1,15 @@
+<package>
+  <description brief="strokelitude_ros">
+
+     strokelitude_ros
+
+  </description>
+  <author>Andrew Straw</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://github.com/motmot/strokelitude_ros</url>
+
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+
+</package>
