@@ -4,3 +4,5 @@
 Header header # standard ROS header with timestamp
 float32 left_wing_angle_radians
 float32 right_wing_angle_radians
+float32 left_legbox_intensity
+float32 right_legbox_intensity
