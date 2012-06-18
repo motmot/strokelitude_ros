@@ -11,6 +11,6 @@
 
   <depend package="std_msgs"/>
   <depend package="rospy"/>
-  <rosdep name="python-strokelitude">
+  <rosdep name="python-strokelitude"/>
 
 </package>
