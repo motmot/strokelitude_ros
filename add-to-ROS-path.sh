@@ -1,2 +1,0 @@
-PWD=`pwd`
-export ROS_PACKAGE_PATH="$ROS_PACKAGE_PATH:$PWD"
